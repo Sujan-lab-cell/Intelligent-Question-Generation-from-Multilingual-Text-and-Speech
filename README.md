@@ -8,7 +8,26 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+## 📑 Table of Contents
 
+- [🌟 Overview](#-overview)
+- [✨ Features](#-features)
+- [🖥️ Demo](#️-demo)
+- [🗂️ Project Structure](#️-project-structure)
+- [⚙️ Installation](#️-installation)
+- [📦 Requirements](#-requirements)
+- [🤖 Supported Models](#-supported-models)
+- [🎛️ Settings Reference](#️-settings-reference)
+- [📖 Usage Guide](#-usage-guide)
+- [🌐 Language Support](#-language-support)
+- [🏗️ Architecture](#️-architecture)
+- [📸 Application Screenshots](#-application-screenshots)
+- [⚡ Performance Tips](#-performance-tips)
+- [🐛 Troubleshooting](#-troubleshooting)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [🙏 Acknowledgements](#-acknowledgements)
+----
 ## 🌟 Overview
 
 **SmartQ Generator** is a full-featured Streamlit web application that accepts audio or text input, auto-detects the language, translates to English if needed, and uses transformer-based models to generate meaningful, categorized questions. Generated questions can be filtered by type and difficulty, listened to via Text-to-Speech, edited in-browser, and downloaded as PDF or TXT files.
@@ -250,8 +269,6 @@ Supported TTS languages: English, Hindi, French, German, Spanish, Kannada, Telug
 │  └────────────────────────────────────────────┘       │
 └──────────────────────────────────────────────────────┘
 ```
-## 📸 Application Screenshots
-
 ## 📸 Application Screenshots
 
 <table>
