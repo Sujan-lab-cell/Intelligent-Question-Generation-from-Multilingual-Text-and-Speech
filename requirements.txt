@@ -1,14 +1,15 @@
-streamlit 
-whisper 
-transformers 
-sentencepiece 
-torch 
-torchvision 
-torchaudio 
+streamlit
+transformers
+sentencepiece
+torch
+torchvision
+torchaudio
 langdetect
- gTTS 
- pydub
-  librosa 
-  soundfile
-  deep_translator
-importspeech_recognition
+gTTS
+pydub
+librosa
+soundfile
+deep-translator
+SpeechRecognition
+nltk
+fpdf
